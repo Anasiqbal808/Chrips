@@ -1,0 +1,239 @@
+
+ul
+{
+    font-family:cursive;
+    margin: 0 auto;
+}
+.header
+{
+    background-color: #fbf8f3;
+}
+button
+{
+    background-color: #56b8f5;
+    padding: 10px 30px;
+    border: 0;
+    border-radius: 20px;
+    width: 300px;
+}
+.navbar-brand span{
+    color: rgb(41, 70, 233);
+    font-family: cursive;
+}
+.btnn{
+    border-radius: 5px;
+}
+.btnnnnn{
+    border-radius: 5px;
+    margin-bottom: 15px;
+    color: white;
+    font-family: cursive;
+
+}
+.btnnnnn i
+{
+    color: white;
+    padding-right: 15px;
+    padding-top: 0;
+}
+.newheader h2
+{
+    font-size:50px;
+    font-weight:bold;
+    font-family: cursive;
+}
+.newheader p
+{
+    color: rgb(141, 141, 141);
+    font-family: cursive;
+}
+.newheader
+{
+    padding: 10px 60px;
+    background-color: #fbf8f3;
+}
+.newheader img
+{
+    margin-bottom: 15px;
+}
+.new .card 
+{
+    padding: 20px 80px;
+    margin-bottom: 50px;
+}
+.new .abs
+{
+    margin-top: 20px;
+}
+.new h1
+{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: cursive;
+}
+.new h2{
+    padding-bottom: 20px;
+    font-family: cursive;
+}
+.new {
+    padding-top: 40px;
+}
+.new p
+{
+    color: rgb(141, 141, 141);
+    font-family: cursive;
+}
+.new h2
+{
+    font-size:40px;
+    font-weight:bold;
+}
+.new2
+
+{
+    background-color: #d7f5f5;
+    padding: 50px 50px;
+}
+.new2 .card
+{
+    padding: 20px 20px;
+}
+.new2 img
+{
+    padding-right: 260px;
+}
+.fa-heart
+{
+    color: rgb(255, 0, 55);
+    margin-right: 5px;
+}
+.fa-twitter
+{
+    color: rgb(26, 192, 214);
+    font-size: 25px;
+    padding-top: 20px;
+}
+.new2 .card
+{
+    border-radius: 10px;
+}
+.new2 h4
+{
+    font-weight: bold;
+    padding-top: 20px;
+    font-family: cursive;
+    padding-bottom: -50px;
+    font-size: 20px;
+}
+.new2 p
+{
+    color: rgb(150, 150, 150);
+    font-family: cursive;
+}
+.new2 h2
+{
+    padding-bottom:30px ;
+    font-weight: bold;
+    font-family: cursive;
+}
+.new3 h2
+{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+}
+.new3 h4{
+    font-family: cursive;
+}
+.priceTagline{
+    color: rgb(151, 151, 151);
+    text-align: center;
+}
+.new3 
+{
+    padding: 40px 40px;
+}
+.new3 p
+{
+    font-family: cursive;
+}
+.new3 .pet p
+{
+    text-align: left;
+    font-family: cursive;
+}
+.new3 .pet p span
+{
+    color: black;
+    font-weight:bold;
+    font-family: cursive;
+    font-size: 60px;
+}
+.fa-check-circle
+{
+    margin-right: 10px;   
+    color: rgb(53, 161, 53);
+}
+span
+{
+    color: rgb(146, 146, 146);
+    font-family: cursive;
+}
+.btnnnn i{
+    color: white;
+    padding-right:10px;
+    padding-top: 0;
+}
+.new3 .card
+{
+    width: 40%;
+    padding: 40px 50px;
+    border: 2px solid #ffad23;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #fbf8f3;
+}
+.new3 .card .btnnnn
+{
+    border-radius: 5px;
+    color: white;
+    font-family: cursive;
+    padding: 10px 10px;
+    font-weight:bold ;
+    font-size: 20px;
+    width: 100%;
+}
+footer{
+    background-color: #d7f5f5;
+    padding: 20px 40px;
+}
+footer h2
+{
+    color: rgb(41, 70, 233);
+    font-family: cursive;
+}
+footer a
+{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 10px;
+    font-family: cursive;
+}
+footer .icon
+{
+    text-align: right;
+}
+@media only screen and (max-width: 992px){
+    .new3 .card
+    {
+        width: 60%;
+    }
+}
+@media only screen and (max-width: 768px){
+    .new3 .card
+    {
+        width: 80%;
+    }
+}
